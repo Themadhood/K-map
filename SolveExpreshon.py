@@ -7,6 +7,11 @@ __info__        = ""
 
 from THEMADHOOD.Library.Duplicate.Same.SameLst import *
 
+try:
+    from .SameLst import *
+except:
+    from SameLst import *
+
 #st = Error.time.time()
 #Error.LenTime(st)
 #Error.Log(f"","Log.txt")
