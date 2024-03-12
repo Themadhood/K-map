@@ -1,5 +1,5 @@
 __Program__     = "K-Map.SolveSquare"    
-__programer__   = "Madison Arndt"
+__programer__   = "Themadhood Pequot"
 __Date__        = "2/20/2024"
 __version__     = "0.0.1"
 __update__      = ""
