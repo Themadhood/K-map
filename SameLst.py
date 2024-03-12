@@ -1,11 +1,11 @@
 __Program__     = "Duplicate.SameLst"    
-__programer__   = "Madison Arndt"
+__programer__   = "Themadhood Pequot"
 __Date__        = "2/21/2024"
 __version__     = "0.0.1"
 __update__      = ""
 __info__        = ""   
 
-from THEMADHOOD.Library import Error
+import Error
 
 #st = Error.time.time()
 #Error.LenTime(st)
