@@ -5,7 +5,7 @@ __version__     = "0.0.1"
 __update__      = ""
 __info__        = ""   
 
-from THEMADHOOD.Library import Error
+import Error
 
 #st = Error.time.time()
 #Error.LenTime(st)
