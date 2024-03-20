@@ -5,8 +5,6 @@ __version__     = "0.0.1"
 __update__      = ""
 __info__        = ""   
 
-from THEMADHOOD.Library.Duplicate.Same.SameLst import *
-
 try:
     from .SameLst import *
 except:
